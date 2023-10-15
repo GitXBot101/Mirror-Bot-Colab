@@ -9,7 +9,7 @@
 
 
 
-<div align="center"><a href="https://colab.research.google.com/github/sisakoy/zoillo/blob/master/ML_Rclone_Bot.ipynb" target="_parent"><img src="https://user-images.githubusercontent.com/125879861/255389999-a0d261cf-893a-46a7-9a3d-2bb52811b997.png" alt="Deploy On Google Colab"/></a></div>
+<div align="center"><a href="https://colab.research.google.com/github/sisakoy/zoillo/blob/master/ML_Rclone_Bot.ipynb" target="_parent"><img src="https://user-images.githubusercontent.com/125879861/255389999-a0d261cf-893a-46a7-9a3d-2bb52811b997.png" alt="Open In Colab" width=200px/></a></div>
 <br>
 <hr>
 <div align="center"><h2><b>⚡How To Start Bot</b></h2></div>
